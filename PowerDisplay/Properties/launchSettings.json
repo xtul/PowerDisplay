@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bannerlord": {
+        "commandName": "Executable",
+        "executablePath": "$(GameFolder)\\bin\\Win64_Shipping_Client\\TaleWorlds.MountAndBlade.Launcher.exe",
+        "commandLineArgs": "",
+        "workingDirectory": "$(GameFolder)\\bin\\Win64_Shipping_Client"
+    }
+  }
+}
