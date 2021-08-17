@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<!-- If true, party strength will only be displayed when pressing Alt -->
+	<DisplayOnInspect>false</DisplayOnInspect>
+</Config>
