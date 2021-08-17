@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Config>
-	<!-- If true, party strength will only be displayed when pressing Alt -->
+	<!-- true: Power will be displayed only after pressing Alt -->
+	<!-- false: Power will always be displayed -->
 	<DisplayOnInspect>false</DisplayOnInspect>
 </Config>
